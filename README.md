@@ -10,5 +10,6 @@ Codecademy
 - Learn Java
 - Git
 - Github
+- Command line
   
 Much more to come
