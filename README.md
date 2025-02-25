@@ -6,4 +6,6 @@ https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-co
 CS101
 https://learn.saylor.org/course/view.php?id=747
 
-Codecademy "Learn Java"
+Codecademy
+- Learn Java
+- Git
