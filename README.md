@@ -11,5 +11,6 @@ Codecademy
 - Git
 - Github
 - Command line
+- Bash
   
 Much more to come
